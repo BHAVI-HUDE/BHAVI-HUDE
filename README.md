@@ -93,7 +93,7 @@ An Airbnb-inspired travel listing platform.
 
 <p>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/bhavi-hude-038370207/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

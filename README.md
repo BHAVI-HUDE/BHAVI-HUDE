@@ -1,6 +1,12 @@
-# Hi, I’m Bhavi Hude 👋
+<h1 align="center">Hi 👋, I'm Bhavi Hude</h1>
 
-Full-stack web developer focused on building practical MERN applications with authentication, REST APIs, and cloud deployment.
+<h3 align="center">
+Full Stack Web Developer • MERN Stack • AWS • Java
+</h3>
+
+<p align="center">
+Building scalable web applications and actively seeking Software Engineering & Full Stack Development internships.
+</p>
 
 ## What I work with 🚀
 - React.js, Node.js, Express.js

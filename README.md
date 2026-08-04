@@ -1,30 +1,147 @@
-<h1 align="center">Hi 👋, I'm Bhavi Hude</h1>
-
-<h3 align="center">
-Full Stack Web Developer • MERN Stack • AWS • Java
-</h3>
+# Hi there, I'm Bhavi Hude 👋
 
 <p align="center">
-Building scalable web applications and actively seeking Software Engineering & Full Stack Development internships.
+  <b>Full Stack Web Developer • MERN Stack • AWS • Java</b>
+  <br><br>
+  Passionate about building scalable web applications, solving real-world problems, and continuously improving through projects and Data Structures & Algorithms.
+  <br><br>
+  <b>🚀 Currently seeking Software Engineering & Full Stack Development Internship opportunities.</b>
 </p>
 
-## What I work with 🚀
-- React.js, Node.js, Express.js
-- MongoDB, MongoDB Atlas
-- JavaScript, Java
-- AWS: EC2, S3, IAM, CloudFront, Amplify
-- Git, GitHub, REST APIs, JWT
+---
 
-## Featured projects 🌟
-- **GitForge** — GitHub-inspired repository management platform with repo creation, issues, file management, and role-based access.
-- **Wanderlust** — Airbnb-inspired travel listing platform with authentication, CRUD, and cloud image handling.
-- **BHAVI-HUDE.github.io** — Personal portfolio / GitHub Pages site.
+## 👨‍💻 About Me
 
-## Currently focused on
-- MERN stack development
-- DSA practice
-- Internship & Placement preparation
-- Building deployment-ready projects
+* 🎓 B.Tech in Information Technology (2023–2027)
+* 💻 Full Stack Web Developer specializing in the MERN stack
+* ☁️ Hands-on experience deploying applications using AWS (EC2, S3, IAM, CloudFront & Amplify)
+* 🔒 Experienced in Authentication, Authorization, REST APIs, File Uploads and Cloud Storage
+* 📚 Currently strengthening Data Structures & Algorithms using Java
+* 🌱 Continuously learning System Design and scalable backend development
 
-## Let’s connect 📫
-Open to web development and software development internships and collaboration on full-stack projects.
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🚀 GitForge
+
+A GitHub-inspired repository management platform built with the MERN stack.
+
+### Highlights
+
+* Repository creation and management
+* Secure JWT Authentication & Authorization
+* File and folder management
+* Issue tracking system
+* AWS S3 integration
+* Responsive React frontend
+* RESTful backend APIs
+
+---
+
+## 🏡 Wanderlust
+
+An Airbnb-inspired travel listing platform.
+
+### Highlights
+
+* User Authentication
+* CRUD Listing Management
+* Image Upload using Cloudinary
+* Reviews & Ratings
+* MongoDB Database
+* Responsive UI
+* Secure Express Backend
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BHAVI-HUDE&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVI-HUDE&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=BHAVI-HUDE&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BHAVI-HUDE&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hudebhavi@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/BHAVI-HUDE">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Building software that solves real-world problems, one project at a time."</i>
+</p>
+

@@ -1,4 +1,7 @@
-# Hi there, I'm Bhavi Hude 👋
+  # Hi there, I'm Bhavi Hude 👋
+<h2 align="center">
+  Hi there, I'm Bhavi Hude 👋
+ </h2>
 
 <p align="center">
   <b>Full Stack Web Developer • MERN Stack • AWS • Java</b>

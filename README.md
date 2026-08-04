@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Bhavi Hude 👋
 
-<!--
-**BHAVI-HUDE/BHAVI-HUDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer focused on building practical MERN applications with authentication, REST APIs, and cloud deployment.
 
-Here are some ideas to get you started:
+## What I work with
+- React.js, Node.js, Express.js
+- MongoDB, MongoDB Atlas
+- JavaScript, Java
+- AWS: EC2, S3, IAM, CloudFront, Amplify
+- Git, GitHub, REST APIs, JWT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **GitForge** — GitHub-inspired repository management platform with repo creation, issues, file management, and role-based access.
+- **Wanderlust** — Airbnb-inspired travel listing platform with authentication, CRUD, and cloud image handling.
+- **BHAVI-HUDE.github.io** — Personal portfolio / GitHub Pages site.
+
+## Currently focused on
+- MERN stack development
+- DSA practice
+- Internship preparation
+- Building deployment-ready projects
+
+## Let’s connect
+Open to web development internships and collaboration on full-stack projects.

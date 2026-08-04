@@ -1,7 +1,7 @@
-  # Hi there, I'm Bhavi Hude 👋
-<h2 align="center">
-  Hi there, I'm Bhavi Hude 👋
- </h2>
+  
+<h1 align="center">
+  <b>Hi there, I'm Bhavi Hude 👋</b>
+ </h1>
 
 <p align="center">
   <b>Full Stack Web Developer • MERN Stack • AWS • Java</b>

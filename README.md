@@ -17,8 +17,8 @@ Full-stack web developer focused on building practical MERN applications with au
 ## Currently focused on
 - MERN stack development
 - DSA practice
-- Internship preparation
+- Internship & Placement preparation
 - Building deployment-ready projects
 
 ## Let’s connect
-Open to web development internships and collaboration on full-stack projects.
+Open to web development and software development internships and collaboration on full-stack projects.

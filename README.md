@@ -89,11 +89,6 @@ An AI-triaged civic issue reporting platform. It turns a citizen's report into a
 * Built with React + Vite (frontend) and Express + Node.js + MongoDB (backend)
 * Classification logic kept modular so it can later be swapped for an ML/LLM service without changing the frontend contract
 
-### Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,vercel" />
-</p>
 
 ---
 
